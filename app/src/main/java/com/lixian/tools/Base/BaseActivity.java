@@ -24,7 +24,9 @@ public class BaseActivity extends AppCompatActivity {
 
 
     }
-
+    public <T extends View> T lx(int id) {
+        return (T) findViewById(id);
+    }
 
     public void finish(View v) {
         finish();

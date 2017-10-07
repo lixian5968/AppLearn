@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Tools</string>
+    <string name="app_name">李献开发工具</string>
+
+
+    <string name="AccessServiceTools">开发助手-自动开关(推荐)</string>
+    <string name="AccessServiceToolsDescription">方便开发者 打开一些手机界面</string>
+
 </resources>

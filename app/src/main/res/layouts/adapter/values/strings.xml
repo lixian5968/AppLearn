@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MainActivityTitle">开发助手</string>
+    <string name="MainActivityDeBugAs">调试相关</string>
+    <string name="MainActivityPhoneInfo">设备信息</string>
+    <string name="MainActivityOtherInfo">其他内容</string>
+</resources>
